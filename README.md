@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- I'm a student at [Zhejiang Normal University](http://zjnu.edu.cn) majoring in software engineering
+- I'm a student at [ZJNU](http://zjnu.edu.cn) majoring in software engineering
 - Contributor of [exTHmUI](https://github.com/exTHmUI), an Android ROM project
 
 
