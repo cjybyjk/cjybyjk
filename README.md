@@ -1,9 +1,10 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cjybyjk&show_icons=true&theme=vue&hide_title=true" />
+
 ### Hi there 👋
 
 - I'm a student at ZJNU majoring in software engineering
-- Contribtor of [exTHmUI](https://github.com/exTHmUI), a Android ROM project
+- Contributor of [exTHmUI](https://github.com/exTHmUI), a Android ROM project
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=cjybyjk&show_icons=true&theme=vue)
 
 <!--
 **cjybyjk/cjybyjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
