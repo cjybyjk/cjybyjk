@@ -4,4 +4,4 @@
 
 - I'm a student at [ZJNU](http://zjnu.edu.cn) majoring in software engineering
 - I’m currently working on [Project-Kaleidoscope](https://github.com/Project-Kaleidoscope), an Android custom ROM project
-- 💕 @MlgmXyysd
+- 💕 [@MlgmXyysd](https://github.com/MlgmXyysd)
