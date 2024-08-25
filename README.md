@@ -2,5 +2,6 @@
 
 ### Hi there 👋, this is Shelling
 
-- I am a software engineer at Xiaomi and I am currently developing the 🚗.
+- I am a software engineer at Xiaomi, currently developing the HD-Map.
+- Interested in and learning Android development. 
 - 💕 [@MlgmXyysd](https://github.com/MlgmXyysd)
